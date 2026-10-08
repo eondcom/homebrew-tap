@@ -1,6 +1,6 @@
 cask "localman" do
-  version "0.1.1"
-  sha256 "d83a128c59c10f84c1ca5ab7dbede849423d84e611802297b26568b309a5f039"
+  version "0.1.2"
+  sha256 "d127a66ae0249dd8a910e8dd45a8b22a4d019a8e12c5f63c3d2330f088683286"
 
   url "https://github.com/eondcom/localman/releases/download/v#{version}/LocalMan-#{version}.dmg"
   name "LocalMan"
